@@ -5,7 +5,7 @@ This repository contains the code for our project,
 submitted to the Journal of Bioinformatics Advances.
 
 
-![Alt text](images/overview_framework.png)
+![Alt text](images/__overview_framework.jpeg)
 
 
 ## Data Source
