@@ -1,8 +1,7 @@
 ## Spectral Graph Embedding Framework for Multi-Omics Cancer Driver Gene Prioritization
 
 This repository contains the code for our project,  
-**"Spectral Graph Embedding Framework for Multi-Omics Cancer Driver Gene Prioritization,"**  
-submitted to the Journal of Bioinformatics Advances.
+**"Spectral Graph Embedding Framework for Multi-Omics Cancer Driver Gene Prioritization,"**.
 
 
 ![Alt text](images/__overview_framework.jpeg)
